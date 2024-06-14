@@ -22,8 +22,6 @@ This was replaced with:
 
 This change ensures compatibility with the updated logging system in Unreal Engine 5.4.2.
 
-## Installation
-
 ## Installing the MVN Live Link Plugin for Unreal Engine 5.4.2
 
 ##### 1. Download the Latest Release

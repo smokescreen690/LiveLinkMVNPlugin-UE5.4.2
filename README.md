@@ -26,8 +26,6 @@ This change ensures compatibility with the updated logging system in Unreal Engi
 
 ## Installing the MVN Live Link Plugin for Unreal Engine 5.4.2
 
-#### Step-by-Step Instructions
-
 ##### 1. Download the Latest Release
 - Go to the Releases page and download the latest version of the plugin.
 

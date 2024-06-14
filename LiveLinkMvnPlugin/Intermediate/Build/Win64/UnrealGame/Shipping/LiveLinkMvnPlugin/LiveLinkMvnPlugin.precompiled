@@ -1,0 +1,20 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\Module.LiveLinkMvnPlugin.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\Datagram.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\LiveLinkGameInstance.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\LiveLinkMvnMetadataService.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\LiveLinkMvnPlugin.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\LiveLinkMvnRetargetAsset.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\LiveLinkMvnSource.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\LiveLinkMvnTransformController.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\MetaDatagram.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\MvnRemoteControlManager.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\MvnRemoteControlSession.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\MvnRemoteControlSessionUtil.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\ParserManager.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\QuaternionDatagram.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\ScaleDatagram.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LiveLinkMvnPlugin\\Streamer.cpp.obj"
+	]
+}

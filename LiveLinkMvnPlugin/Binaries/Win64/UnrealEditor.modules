@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"LiveLinkMvnPlugin": "UnrealEditor-LiveLinkMvnPlugin.dll",
+		"LiveLinkMvnPluginEditor": "UnrealEditor-LiveLinkMvnPluginEditor.dll"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\Module.LiveLinkMvnPlugin.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\Datagram.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\LiveLinkGameInstance.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\LiveLinkMvnMetadataService.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\LiveLinkMvnPlugin.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\LiveLinkMvnRetargetAsset.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\LiveLinkMvnSource.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\LiveLinkMvnTransformController.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\MetaDatagram.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\MvnRemoteControlManager.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\MvnRemoteControlSession.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\MvnRemoteControlSessionUtil.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\ParserManager.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\QuaternionDatagram.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\ScaleDatagram.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\LiveLinkMvnPlugin\\Streamer.cpp.obj"
+	]
+}
